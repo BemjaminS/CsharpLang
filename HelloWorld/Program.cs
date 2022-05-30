@@ -29,12 +29,14 @@ namespace HelloWorld
             const float Pi = 3.14f;
 
 
+            //declare variable:
 
-
-
-
-
-
+            byte byteNumber = 2;
+            int count = 10;
+            float floatNumber = 20.05f;
+            char character = 'B';
+            string myName = "Ben";
+            bool newWithThisLang = true;
 
 
         }
