@@ -40,8 +40,14 @@ namespace HelloWorld
 
 
             Console.WriteLine("My name is: " +myName);
+            Console.WriteLine(byteNumber);
+            Console.WriteLine(count);
+            Console.WriteLine(floatNumber);
+            Console.WriteLine(character);
+            Console.WriteLine(newWithThisLang);
 
         }
     }
 }
 
+ 
