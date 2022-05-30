@@ -39,6 +39,8 @@ namespace HelloWorld
             bool newWithThisLang = true;
 
 
+            Console.WriteLine("My name is: " +myName);
+
         }
     }
 }
