@@ -31,13 +31,14 @@ namespace HelloWorld
 
             //declare variable:
 
-            byte byteNumber = 2;
-            int count = 10;
-            float floatNumber = 20.05f;
-            char character = 'B';
-            string myName = "Ben";
-            bool newWithThisLang = true;
+            var byteNumber = 2;
+            var count = 10;
+            var floatNumber = 20.05f;
+            var character = 'B';
+            var myName = "Ben";
+            var newWithThisLang = true;
 
+            //by pressing cmd + click <var> will open Assembly Browser and all the lib fuction.
 
             Console.WriteLine("My name is: " +myName);
             Console.WriteLine(byteNumber);
@@ -45,6 +46,10 @@ namespace HelloWorld
             Console.WriteLine(floatNumber);
             Console.WriteLine(character);
             Console.WriteLine(newWithThisLang);
+
+
+
+            
 
         }
     }
